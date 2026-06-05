@@ -1,0 +1,9 @@
+﻿{
+  "name": "NoMap_Cartography_Map",
+  "description": "This mod alters the behavior of the Cartography Table on servers where the 'No Map' option is enabled. Interacting with the Cartography Table ('Read map') will now open the Map screen. The map is only visible while standing at the table.",
+  "version_number": "1.0.1",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ],
+  "website_url": "https://www.nexusmods.com/valheim/mods/2532"
+}

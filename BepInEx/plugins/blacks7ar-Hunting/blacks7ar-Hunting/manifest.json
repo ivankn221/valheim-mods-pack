@@ -1,0 +1,7 @@
+﻿{
+  "name": "Hunting",
+  "description": "A skill mod that gives you the ability to tracked down your prey (boars, deers, wolves, lox, hares, necks, chickens, birds and bears), and increase the item yield according to your hunting skill level and preys level.",
+  "version_number": "1.4.3",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2227?tab=bugs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2333"]
+}

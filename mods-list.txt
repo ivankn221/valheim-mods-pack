@@ -1,0 +1,41 @@
+﻿Valheim mods pack (server export)
+Created: 2026-06-05 09:22
+Server:  Valheim Server
+World:   Dedicated
+Count:   32
+
+Client: import-mods-pack.bat or sync-mods-from-git.bat
+
+Mods:
+  - Advize-PlantEverything
+  - Azumatt-AzuCraftyBoxes
+  - Azumatt-Recycle_N_Reclaim
+  - blacks7ar-Hunting
+  - blacks7ar-WieldEquipmentWhileSwimming
+  - bodyXY-NoMap_Cartography_Map
+  - Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock
+  - HavocMods-RealisticSpears
+  - HugotheDwarf-Hugos_Armory
+  - HugotheDwarf-More_and_Modified_Player_Cloth_Colliders
+  - HugotheDwarf-Shapekeys_and_More
+  - Kevver-HoldMySpear
+  - MSchmoecker-MultiUserChest
+  - Narolith-AutoFeed
+  - OdinPlus-BruteWeapons
+  - OdinPlus-OdinHorse
+  - OdinPlus-TeleportEverything
+  - shudnal-Compass
+  - shudnal-ExtraSlots
+  - shudnal-MoreGatesExtended
+  - shudnal-NomapPrinter
+  - Smoothbrain-Sailing
+  - Smoothbrain-TargetPortal
+  - TastyChickenLegs-AutomaticFuel
+  - Tekla-AutoRepair
+  - ValheimModding-Jotunn
+  - ValheimModding-JsonDotNET
+  - ValheimModding-YamlDotNet
+  - Vapok-AdventureBackpacks
+  - VentureValheim-Reely_Good_Rod
+  - VentureValheim-Venture_Floating_Items
+  - xtavim-BetterCrossbows

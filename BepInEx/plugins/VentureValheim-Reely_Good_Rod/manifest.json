@@ -1,0 +1,9 @@
+{
+  "name": "Reely_Good_Rod",
+  "version_number": "0.1.1",
+  "website_url": "https://github.com/OrianaVenture/VentureValheim",
+  "description": "Reduces stamina usage of fishing rods when reeling in fish by half.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
